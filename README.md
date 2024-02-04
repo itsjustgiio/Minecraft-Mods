@@ -9,6 +9,8 @@ Step 4 - Download All the Mods on here *delete* the mods.html file
 
 Step 5 - Place all the mods into the folder
 
+Step 5 - Download the mods from the extra mods file
+
 Step 5 - Create a datapacks Folder where the mod folder is located
 
 Step 6 - Download the datapack
