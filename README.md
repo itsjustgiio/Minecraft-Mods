@@ -5,9 +5,11 @@ Step 2 - Download Better Minecraft Mod Pack
 
 Step 3 - Remove everything *BESIDES* the .connector folder
 
-Step 4 - Download All the Mods (click the green button <code> and click download ZIP)on here *delete* the mods.html file
+Step 4 - Download All the Mods (click the green button <code> and click download ZIP)  
 
-Step 5 - Download the mods from 
+Step 5 - *delete* the mods.html file
+
+Step 6 - Download the mods from 
 
          https://www.curseforge.com/minecraft/mc-mods/alexs-caves/files
 
@@ -19,12 +21,12 @@ Step 5 - Download the mods from
 	
              	1.84
 
-Step 6 - Place all the mods into the folder
+Step 7 - Place all the mods into the folder
 
-Step 7 - Create a datapacks Folder where the mod folder is located
+Step 8 - Create a datapacks Folder where the mod folder is located
 
-Step 8 - Download the datapack
+Step 9 - Download the datapack
 
-Step 9 - Place the datapack into the newly created datapacks folder
+Step 10 - Place the datapack into the newly created datapacks folder
 
-Step 10 - Test Minecraft and add hunterprox1 on Minecraft
+Step 11 - Test Minecraft and add hunterprox1 on Minecraft
