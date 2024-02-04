@@ -23,7 +23,7 @@ Step 6 - Download the mods from
 
 Step 7 - Place all the mods into the folder
 
-Step 8 - Create a datapacks Folder where the mod folder is located
+Step 8 - Create a datapacks Folder where the mod folder is located ( not in the mods folder )
 
 Step 9 - Download this datapack
 
