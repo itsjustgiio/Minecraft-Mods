@@ -34,6 +34,6 @@ Step 10 - Place the datapack into the newly created datapacks folder
 Step 11 - Download this Resource Pack and put it into your resource folder
 
 	https://www.curseforge.com/minecraft/texture-packs/create-immersive-aircrafts-resource-pack/files/4646072
-Step 12 - Verify you have 305 mods
+Step 12 - Verify you have 307 mods
 
 Step 13 - Test Minecraft and add hunterprox1 on Minecraft
