@@ -15,11 +15,11 @@ Step 6 - Download the mods from
 
          https://www.curseforge.com/minecraft/mc-mods/blue-skies/files/all?page=1&pageSize=20&version=1.20.1
 
-            	1.3.29
+            	1.20.1-v1.3.31
 
          https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm
 	
-             	1.84
+             	1.90 tongue fixed-1.19.2.jar
 
 Step 7 - Place all the mods into the folder
 
