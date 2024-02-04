@@ -7,8 +7,6 @@ Step 3 - Remove everything *BESIDES* the .connector folder
 
 Step 4 - Download All the Mods on here *delete* the mods.html file
 
-Step 5 - Place all the mods into the folder
-
 Step 5 - Download the mods from 
 
          https://www.curseforge.com/minecraft/mc-mods/alexs-caves/files
@@ -21,10 +19,12 @@ Step 5 - Download the mods from
 	
              	1.84
 
-Step 5 - Create a datapacks Folder where the mod folder is located
+Step 6 - Place all the mods into the folder
 
-Step 6 - Download the datapack
+Step 7 - Create a datapacks Folder where the mod folder is located
 
-Step 7 - Place the datapack into the newly created datapacks folder
+Step 8 - Download the datapack
 
-Step 8 - Test Minecraft and add hunterprox1 on Minecraft
+Step 9 - Place the datapack into the newly created datapacks folder
+
+Step 10 - Test Minecraft and add hunterprox1 on Minecraft
