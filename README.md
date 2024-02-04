@@ -19,7 +19,7 @@ Step 6 - Download the mods from
 
          https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm
 	
-             	1.90 tongue fixed-1.19.2.jar
+             	1.90 -1.20.1
 
 Step 7 - Place all the mods into the folder
 
