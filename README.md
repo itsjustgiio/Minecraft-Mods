@@ -3,7 +3,7 @@ Step 1 - Download Curse Forge and OverWolf
 
 Step 2 - Download Better Minecraft Mod Pack
 
-Step 3 - Remove All Mods
+Step 3 - Remove everything *BESIDES* the .connector folder
 
 Step 4 - Download All the Mods on here
 
