@@ -13,7 +13,7 @@ Step 6 - Download the mods from
 
          https://www.curseforge.com/minecraft/mc-mods/alexs-caves/files
 	 
-		 alexscaves-1.0.9
+		   alexscaves-1.0.9
 
          https://www.curseforge.com/minecraft/mc-mods/blue-skies/files/all?page=1&pageSize=20&version=1.20.1
 
