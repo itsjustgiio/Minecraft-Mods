@@ -5,7 +5,7 @@ Step 2 - Download Better Minecraft Mod Pack
 
 Step 3 - Remove everything *BESIDES* the .connector folder
 
-Step 4 - Download All the Mods (click the green button )on here *delete* the mods.html file
+Step 4 - Download All the Mods (click the green button <code> and click download ZIP)on here *delete* the mods.html file
 
 Step 5 - Download the mods from 
 
