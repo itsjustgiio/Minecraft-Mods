@@ -22,6 +22,8 @@ Step 6 - Download the mods from
          https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm
 	
              	1.90 -1.20.1
+	      
+	https://www.curseforge.com/minecraft/mc-mods/betterend/download/4971487
 
 Step 7 - Place all the mods into the folder
 
@@ -36,6 +38,6 @@ Step 10 - Place the datapack into the newly created datapacks folder
 Step 11 - Download this Resource Pack and put it into your resource folder
 
 	https://www.curseforge.com/minecraft/texture-packs/create-immersive-aircrafts-resource-pack/files/4646072
-Step 12 - Verify you have 307 items on your mods folder
+Step 12 - Verify you have 310 items on your mods folder
 
 Step 13 - Test Minecraft and add hunterprox1 on Minecraft
